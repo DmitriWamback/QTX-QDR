@@ -1,7 +1,3 @@
-# QDR QTX
+# Hacky things
 
-experimental server/client communication.
-<ul>
-    <li>QDR: Client</li>
-    <li>QTX: Server</li>
-</ul>
+experimental hacking things
