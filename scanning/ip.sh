@@ -15,3 +15,6 @@
 
 # [on the victim's machine]
 # python3 backdoor.py
+
+# [nmap]
+# nmap -sV -A [IP OF THE LOCAL NETWORK]/24
