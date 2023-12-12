@@ -17,4 +17,4 @@
 # python3 backdoor.py
 
 # [nmap]
-# nmap -sV -A [IP OF THE LOCAL NETWORK]/24
+# nmap -sV -A [IP OF THE LOCAL NETWORK (ex: 192.168.1.0)]/24
